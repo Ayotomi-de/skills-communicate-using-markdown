@@ -10,4 +10,7 @@
 ``` css
 background = #000000;
 ```
+- [x] Take my first   Github skill
+- [x] Learn Git 
+- [x] Introduce myself to the world
 
